@@ -1,0 +1,30 @@
+{
+  "name": "base64-words",
+  "version": "0.1.0",
+  "description": " Convert base64 strings into human-friendly words",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "files": [
+    "src/",
+    "test/",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:pandastrike/base64-words.git"
+  },
+  "keywords": [
+    "encode",
+    "decode",
+    "base64"
+  ],
+  "author": "Michael R. Fleet (https://github.com/f1337)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
