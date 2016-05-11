@@ -1,6 +1,6 @@
 {
   "name": "base64-words",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": " Convert base64 strings into human-friendly words",
   "main": "src/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com:pandastrike/base64-words.git"
+    "url": "git://github.com/pandastrike/base64-words.git"
   },
   "keywords": [
     "encode",
