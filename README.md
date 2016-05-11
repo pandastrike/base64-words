@@ -4,7 +4,9 @@ Convert base64 strings into human-friendly words.
 
 ## Installation
 
-  npm install base64-words --save
+```
+npm install base64-words --save
+```
 
 ## Usage
 
@@ -34,4 +36,6 @@ console.log('words', words, 'base64', str64);
 
 ## Tests
 
-  npm test
+```
+npm test
+```
