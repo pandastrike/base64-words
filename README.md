@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pandastrike/base64-words.svg)](https://travis-ci.org/pandastrike/base64-words)
+
 # base64-words
 
 Convert base64 strings into human-friendly words.
