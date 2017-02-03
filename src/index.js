@@ -1,10 +1,12 @@
 'use strict'
 
+var dictionary = require('./dicewords.js');
+
+exports.dictionary = dictionary
 exports.fromBase64 = fromBase64
 exports.toBase64 = toBase64
 
 var base64Map = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/-_='
-var dictionary = require('./dicewords.js');
 
 // a base64 pair provides 4096 (64x64) possible values
 // create the reverse word map using the base64 pairs

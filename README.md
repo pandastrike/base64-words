@@ -29,7 +29,7 @@ console.log('base64', str64, 'words', words);
 ```
 var Base64Words = require('base64-words');
 
-var words = 'bulk-birch-bye-day-cal-fare-cargo-pn';
+var words = 'ducky-apron-finer-tulip-genre-finite-groom-anteater';
 
 var str64 = Base64Words.toBase64(words);
 

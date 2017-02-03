@@ -1,6 +1,6 @@
 {
   "name": "base64-words",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": " Convert base64 strings into human-friendly words",
   "main": "src/index.js",
   "scripts": {

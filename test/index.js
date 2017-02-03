@@ -5,7 +5,7 @@ var expect = require('chai').expect,
     toBase64 = Base64Words.toBase64,
 
     str64 = 'MTIzNDU2Njc3OA==',
-    words = 'bulk-birch-bye-day-cal-fare-cargo-pn';
+    words = 'ducky-apron-finer-tulip-genre-finite-groom-anteater';
 
 
 describe ('fromBase64', function ()
