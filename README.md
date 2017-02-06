@@ -41,3 +41,17 @@ console.log('words', words, 'base64', str64);
 ```
 npm test
 ```
+
+or
+
+```
+docker-compose up
+```
+
+
+## Publishing to npm via Docker
+
+```
+docker-compose run node npm login
+docker-compose run node npm publish
+```
